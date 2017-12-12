@@ -15,6 +15,8 @@ public class DemoApplicationTests {
 
 	@Test
 	public void sayHello(){
+
+		System.out.println("hello ");
 		System.out.println("hello world");
 	}
 
