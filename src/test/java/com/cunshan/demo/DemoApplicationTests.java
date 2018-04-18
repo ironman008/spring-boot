@@ -18,6 +18,7 @@ public class DemoApplicationTests {
 		System.out.println("hello ");
 		System.out.println("hello world");
 		System.out.println("test");
+		System.out.println("testMerge");
 	}
 
 }
