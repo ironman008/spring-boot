@@ -17,6 +17,7 @@ public class DemoApplicationTests {
 	public void sayHello(){
 		System.out.println("hello ");
 		System.out.println("hello world");
+		System.out.println("test");
 	}
 
 }
