@@ -19,6 +19,7 @@ public class DemoApplicationTests {
 		System.out.println("hello world");
 		System.out.println("test");
 		System.out.println("testMerge");
+		System.out.println("test2");
 	}
 
 }
